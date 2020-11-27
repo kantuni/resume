@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("Hovhannes Kantuni")
+st.text("")
 st.image("https://avatars.githubusercontent.com/u/63314087?s=200")
 st.markdown("Email: [hkantuni@gmail.com](mailto:hkantuni@gmail.com)")
 st.markdown("GitHub: [hkantuni](https://github.com/hkantuni)")
@@ -14,10 +15,16 @@ st.header("Summary")
 - Ability to develop Graphical User Interfaces, data structures, and algorithms.
 """
 
-"Throughout my professional career, I have gained experience in project management, engineering, energy, IT, procurement, budgeting, monitoring, and logistics (see the link to my old resume below). As a result of my extensive experience in IT and engineering, I became interested in software development. Due to the COVID-19 pandemic, I finally had enough free time to become proficient in full-stack web development."
-"[Link to my old resume](https://github.com/hkantuni/Resume/blob/main/HK%20old_resume.md)"
+st.write(
+    "Throughout my professional career, I have gained experience in project management, engineering, energy, IT, procurement, budgeting, monitoring, and logistics (see the link to my old resume below). As a result of my extensive experience in IT and engineering, I became interested in software development. Due to the COVID-19 pandemic, I finally had enough free time to become proficient in full-stack web development."
+)
+
+st.markdown(
+    "[Link to my old resume](https://github.com/hkantuni/Resume/blob/main/HK%20old_resume.md)"
+)
 
 st.header("Technical Skills")
+
 st.subheader("Front-end web development")
 """
 - HTML5
@@ -91,23 +98,23 @@ st.subheader("Personal Website")
 st.header("Education")
 
 """
-- Master of Economics
-Economics and Financial Management
-St. Petersburg University of Foreign Economic Relations
+- Master of Economics  
+Economics and Financial Management  
+St. Petersburg University of Foreign Economic Relationsi  
 2006-2008
 """
 
 """
-- Master of Engineering
-Radio and Electronic Engineering
-Yerevan State Engineering University
+- Master of Engineering  
+Radio and Electronic Engineering  
+Yerevan State Engineering University  
 1990-1991
 """
 
 """
-- Bachelor of Engineering
-Radio and Electronic Engineering
-Yerevan State Engineering University
+- Bachelor of Engineering  
+Radio and Electronic Engineering  
+Yerevan State Engineering University  
 1986-1990
 """
 
