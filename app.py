@@ -100,7 +100,7 @@ st.header("Education")
 """
 - Master of Economics  
 Economics and Financial Management  
-St. Petersburg University of Foreign Economic Relationsi  
+St. Petersburg University of Foreign Economic Relations  
 2006-2008
 """
 
