@@ -8,7 +8,7 @@ st.markdown("GitHub: [hkantuni](https://github.com/hkantuni)")
 
 st.header("Summary")
 """
-- Junior web developer with more than a year of experience in the design and development of various applications.
+- Junior web developer with more than 2 years of experience in the design and development of various applications.
 - Excellent team player with a strong ability to network and with a drive for tangible results.
 - High commitment to quality, reliability, and a self-motivating workstyle. Excellent interpersonal skills and a professional approach.
 - Willingness and ability to learn new subjects quickly.
